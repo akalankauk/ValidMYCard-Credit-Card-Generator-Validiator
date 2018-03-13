@@ -1,4 +1,4 @@
-## ValidMYCard---Credit-Card-Generator-Validiator
+## ValidMYCard - Credit-Card Generator Validiator
  Simple Credit Card Generator and Validiator based on HTML,Javascript and Jquery
  
  ## Screenshot
